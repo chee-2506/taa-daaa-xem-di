@@ -7,7 +7,7 @@ const CONFIG = {
     btnYes: 'ukiiii babiii <33',
     btnNo: 'à ừm nâu nâu nâu nâu :3',
     question:'anh ơi anh ơi, chuyện là em muốn được cùng anh...đôi ta mãi bên nhau tới già <3',
-    btnReply: 'không là ăn đục',
+    btnReply: 'nói có đi cho bóp dzú',
     reply: 'coáaaaaaaaaaaaaaaaaaa <33333333',
     mess: 'ỏoooooo...em biết mà 🥰. em yêu anh nhiều nhiều 😘😘',
     messDesc: 'khi nào gặp nhau anh cho em thơm má anh nhá :"3 thơm hai má rồi tiếp đến môi :>>> .',
