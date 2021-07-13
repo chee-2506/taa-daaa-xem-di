@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'xin chàoooo bồ em :>> !',
+    introTitle: 'xin chàoooo người yêu của em :>> !',
     introDesc: `i'm a bee. do you want to be my honey ?`,
     btnIntro: 'có hoặc kó',
     title: ' khi nhìn vào mắt anh, em nhận ra sao trên trời đều là hàng giả 😙',
@@ -10,6 +10,6 @@ const CONFIG = {
     btnReply: 'đồng ý đi cho bóp zú <3 thiệt luôn hong nói xạo',
     reply: 'coáaaaaaaaa <33333333',
     mess: hỡi người yêu cụa em ~~
-    messDesc: 'gặp nhau cho em thơm má nha...thơm từ hai má thơm đến đôi môi.',
+    messDesc: 'gặp nhau cho em hun má nha...hun cả môi nựa :>>>>.'
     btnAccept: 'Okiiiii lun <3'
 }
