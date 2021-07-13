@@ -10,6 +10,6 @@ const CONFIG = {
     btnReply: 'đồng ý đi cho bóp zú <3 thiệt luôn hong nói xạo',
     reply: 'coáaaaaaaaa <33333333',
     mess: hỡi người yêu cụa em ~~
-    messDesc: 'gặp nhau cho em thơm má nha...thơm từ hai má thơm đến đôi môi.',
+    messDesc: 'gặp nhau cho em thơm má nha...thơm từ hai má thơm đến đôi môi.'
     btnAccept: 'Okiiiii lun <3'
 }
