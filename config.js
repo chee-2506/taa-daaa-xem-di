@@ -9,6 +9,7 @@ const CONFIG = {
     question:  'Tuyết Nhi à, em chỉ muốn nói là em yêu anh, yêu anh nhiều lắm. em có một mong muốn nho nhỏ...em và anh, hai mình sẽ bên nhau mãi mãi từ nay về sau và về sau nữa <3 nha anhh ',
     btnReply: 'đồng ý đi cho bóp zú <3 thiệt luôn hong nói xạo',
     reply: 'coáaaaaaaaa <33333333',
+    mess: hỡi người yêu cụa em ~~
     messDesc: 'gặp nhau cho em thơm má nha...thơm từ hai má thơm đến đôi môi.',
     btnAccept: 'Okiiiii lun <3'
 }
