@@ -11,5 +11,5 @@ const CONFIG = {
     reply: 'coáaaaaaaaa <33333333',
     messDesc: 'gặp nhau cho em thơm má nha...thơm từ hai má thơm đến đôi môi.',
     btnAccept: 'Okiiiii lun <3'
-    mess: 'Tuyết Nhi à, em chỉ muốn nói là em yêu anh, yêu anh nhiều nhắm',
+    mess: 'Tuyết Nhi à, em chỉ muốn nói là em yêu anh, yêu anh nhiều lắm',
 }
